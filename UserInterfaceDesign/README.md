@@ -7,10 +7,13 @@
 ### موضوع کار گروهی
 
 - طراحی وب سایت فروشگاه لوازم آرایشی و بهداشتی
+--------
 
 - [Wireframes](https://github.com/ftemeh021/PNU_3991_AR/tree/main/UserInterfaceDesign/Wireframes)
+--------
 
 - [ManualDesign](https://github.com/ftemeh021/PNU_3991_AR/tree/main/UserInterfaceDesign/ManualDesign)
+--------
 
 - [Design](https://github.com/ftemeh021/PNU_3991_AR/tree/main/UserInterfaceDesign/Design)
 --------
