@@ -6,10 +6,10 @@
 --------
 ### موضوع کار گروهی
 
-- طراحی وب سایت فروشگاه لوازم آرایشی و بهداشتی
+-  طراحی وب سایت خرید آنلاین لوازم آرایشی و بهداشتی
 --------
 
-- [Wireframes](https://github.com/ftemeh021/PNU_3991_AR/tree/main/UserInterfaceDesign/Wireframes)
+- #[Wireframes](https://github.com/ftemeh021/PNU_3991_AR/tree/main/UserInterfaceDesign/Wireframes)
 --------
 
 - [ManualDesign](https://github.com/ftemeh021/PNU_3991_AR/tree/main/UserInterfaceDesign/ManualDesign)
