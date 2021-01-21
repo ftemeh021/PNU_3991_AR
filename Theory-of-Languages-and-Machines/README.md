@@ -21,7 +21,7 @@
 -----------
 ## خلاصه ارزیابی درس
 
-- [چک لیست]()
+- [چک لیست](https://github.com/ftemeh021/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/RN_Theory_of_Languages_and_Machines_checList_AR_3991.pdf)
 ------------
 ## گروه
 
