@@ -55,7 +55,7 @@
 --------------
 ### خلاصه ارزیابی درس
 
-- [چک لیست]()
+- [چک لیست](https://github.com/ftemeh021/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/RN_ResearchAndPresentationMethods_CheckList_AR__3991.pdf.pdf.pdf)
 
 --------------
 ### گروه
