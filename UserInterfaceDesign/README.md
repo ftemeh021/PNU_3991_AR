@@ -9,13 +9,13 @@
 -  طراحی وب سایت خرید آنلاین لوازم آرایشی و بهداشتی
 --------
 
-## [Wireframes](https://github.com/ftemeh021/PNU_3991_AR/tree/main/UserInterfaceDesign/Wireframes)
+### [Wireframes](https://github.com/ftemeh021/PNU_3991_AR/tree/main/UserInterfaceDesign/Wireframes)
 --------
 
-## [ManualDesign](https://github.com/ftemeh021/PNU_3991_AR/tree/main/UserInterfaceDesign/ManualDesign)
+### [ManualDesign](https://github.com/ftemeh021/PNU_3991_AR/tree/main/UserInterfaceDesign/ManualDesign)
 --------
 
-## [Design](https://github.com/ftemeh021/PNU_3991_AR/tree/main/UserInterfaceDesign/Design)
+### [Design](https://github.com/ftemeh021/PNU_3991_AR/tree/main/UserInterfaceDesign/Design)
 --------
 ### خلاصه ارزیابی درس
 
